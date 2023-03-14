@@ -1,6 +1,6 @@
 ---
 title: "Homework 1"
-author: "Write Your Name and Student ID Here!"
+author: "Malak NAGHIYEVA (20080159)"
 ---
 
 ```{r global_options, include=FALSE}
@@ -13,40 +13,64 @@ opts_chunk$set(fig.align="center", fig.height=4, fig.width=5.5)
 
 **Question 1** With Markdown write a sentence that has one word in bold.
 
-Write Your Answer Here!
+This is **BOLD**
 
 **Question 2** With Markdown write a sentence that has one word in italic.
 
-Write Your Answer Here!
+This is *ITALIC*
 
 **Question 3** With Markdown write a sentence that has one word in italic bold.
 
-Write Your Answer Here!
+This is **_ITALIC BOLD_**
 
 **Question 4** With Markdown write an unordered list with three items.
 
-Write Your Answer Here!
+* PUBLIC FINANCE
+
+* MACHINE LEARNING
+
+* GENDER IN ECONOMICS
 
 **Question 5** With Markdown write an ordered list with three items.
 
-Write Your Answer Here!
+1. PUBLIC FINANCE
+
+2. MACHINE LEARNING
+
+3. GENDER IN ECONOMICS
 
 **Question 6** With Markdown give a link to your favorite webpage.
 
-Write Your Answer Here!
+Check My Favorite [Webpage](https://www.netflix.com/browse)!
 
 **Question 7** With Markdown add a cat picture.
 
-Write Your Answer Here!
+![Dinosaur Cat](https://user-images.githubusercontent.com/127685411/225010313-4c1df006-2365-41a8-b437-d7d28a4fe1c2.jpg)
 
 **Question 8** With Rmarkdown insert a code chunk and give an example of a simple mathematical calculation in it.
 
-Write Your Answer Here!
+```{r}
+3 * 4
+```
+
 
 **Question 9** With $LaTeX$ write your favorite equation in block form.
 
-Write Your Answer Here!
+This is my favorite equation in block form:
+$$
+M′_z(t)=M_z
+$$
+
+And this:
+$$
+\sum_{i=1}^{10} t_i
+$$
 
 **Question 10** In a code chunk calculate 3 + 4.
 
-Write Your Answer Here!
+```{r}
+3 + 4
+```
+
+
+
